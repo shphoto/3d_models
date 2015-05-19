@@ -1,0 +1,3 @@
+These files have been created in openSCAD and can be exported to STL format for manufacturing on a 3d printer. 
+
+We typically use our MaketBot Replicator 2 in Standard resolution to make parts
